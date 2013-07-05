@@ -1,6 +1,6 @@
 # Gem::Compare
 
-TODO: Write a gem description
+Compare gem source code
 
 ## Installation
 
@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+    $ bundle exec gem compare bundler 2.0.0...2.0.1
 
 ## Contributing
 

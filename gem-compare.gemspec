@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = Gem::Compare::VERSION
   spec.authors       = ["sanemat"]
   spec.email         = ["o.gata.ken@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
-  spec.homepage      = ""
+  spec.description   = %q{Compare gem source code.}
+  spec.summary       = %q{Compare gem source code!}
+  spec.homepage      = "https://github.com/sanemat/gem-compare"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
